@@ -1,1 +1,1 @@
-# mi-gimnasio-app
+# mi-gimnasio-cpp
